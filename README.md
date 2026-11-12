@@ -8,7 +8,7 @@ I explained how the menu, Python functions and shared book list work together, m
 
 ## Group prototype
 
-The prototype supports inventory listing, adding and finding books, stock adjustments, author sorting and summary reports.
+The prototype supports inventory listing, adding and finding books, stock adjustments, author sorting and summary reports. The group's code is not included in this repository, which contains only my system-design slides.
 
 ## Design decisions and limitations
 
